@@ -3,8 +3,6 @@
 <img src=images/DietnamLogo.png width=400>
 
 ## 📚 Table of Contents
-- [$DietNam$ 🇻🇳](#dietnam-)
-  - [📚 Table of Contents](#-table-of-contents)
   - [App Introduction](#app-introduction)
   - [Design \& Architecture](#design--architecture)
   - [Main Features](#main-features)
@@ -14,7 +12,7 @@
   - [Project Setup and Execution Guide](#project-setup-and-execution-guide)
     - [1. `Clone the Project`](#1-clone-the-project)
     - [2. `Install Dependencies`](#2-install-dependencies)
-    - [3. `Open the Xcode Workspace`](#3-open-the-xcode-workspace)
+    - [3. `Open the Xcode Workspace`](#3-open-the-xcode-workspace) 
 
 ## App Introduction
 **DietNam** is an app developed to make it easier to find walking and running routes in Vietnam.
