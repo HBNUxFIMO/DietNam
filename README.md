@@ -1,6 +1,20 @@
-# $DietNam$
+# 🇻🇳 $DietNam$ 🇻🇳
 
 <img src=images/DietnamLogo.png width=400>
+
+## 📚 Table of Contents
+- [🇻🇳 $DietNam$ 🇻🇳](#-dietnam-)
+  - [📚 Table of Contents](#-table-of-contents)
+  - [App Introduction](#app-introduction)
+  - [Design \& Architecture](#design--architecture)
+  - [Main Features](#main-features)
+  - [App Execution Flow Diagram](#app-execution-flow-diagram)
+  - [Class Diagram](#class-diagram)
+  - [App View FLow](#app-view-flow)
+  - [Project Setup and Execution Guide](#project-setup-and-execution-guide)
+    - [1. `Clone the Project`](#1-clone-the-project)
+    - [2. `Install Dependencies`](#2-install-dependencies)
+    - [3. `Open the Xcode Workspace`](#3-open-the-xcode-workspace)
 
 ## App Introduction
 **DietNam** is an app developed to make it easier to find walking and running routes in Vietnam.
@@ -27,3 +41,28 @@ update soon.
 
 ## App View FLow  
 update soon.
+
+## Project Setup and Execution Guide
+
+After cloning this project,   
+follow the steps below to set up your development environment and run the application.
+
+### 1. `Clone the Project`
+
+First, clone the project to your local machine:
+
+```bash
+git clone https://github.com/HBNUxFIMO/DietNam.git
+cd DietNam
+```
+### 2. `Install Dependencies`
+Install the required dependencies using CocoaPods:
+
+```bash
+pod install
+```
+### 3. `Open the Xcode Workspace`
+After installing the dependencies, open the Xcode workspace:
+```bash
+open DietNam.xcworkspace
+```
