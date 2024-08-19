@@ -1,6 +1,6 @@
 # $DietNam$ 🇻🇳
 
-<img src=images/DietnamLogo.png width=400>
+<img src=images/DietnamLogo.png width=300>
 
 ## 📚 Table of Contents
   [1. App Introduction](#app-introduction)  
@@ -26,13 +26,13 @@ With this app, walking and running in Vietnam can become more convenient and enj
 [Design](https://www.figma.com/design/nR0y5DmoEMoaKAxiRVRtI7/Dietnam-Design?node-id=0-1&t=Ujkc6S5WU5OIh0tx-0)  / [Arch](https://www.figma.com/board/WjrECIfX3R0eC5GVr2f3WE/Dietnam-Architect?node-id=0-1&t=xo9Fs4AUXvzMRBGN-0)
 
 ## Main Features
-<img src=images/mainFeatures.png width=300> <img src=images/mainFeatures-kor.png width=300>  
+<img src=images/mainFeatures.png width=450> <img src=images/mainFeatures-kor.png width=450>  
 
 ## App View FLow  
-<img src=images/AppViewFlow-Full.png width=300>    
+<img src=images/AppViewFlow-Full.png width=900>    
 
 ## App Execution Flow Diagram
-<img src=images/ExecutionDiagram.png>
+<img src=images/ExecutionDiagram.png width=1000>
 
 ## Class Diagram
 update soon.
