@@ -28,13 +28,13 @@ With this app, walking and running in Vietnam can become more convenient and enj
 ## Main Features
 <img src=images/mainFeatures.png width=300> <img src=images/mainFeatures-kor.png width=300>  
 
+## App View FLow  
+<img src=images/AppViewFlow-Full.png width=300>    
+
 ## App Execution Flow Diagram
 <img src=images/ExecutionDiagram.png>
 
 ## Class Diagram
-update soon.
-
-## App View FLow  
 update soon.
 
 ## Project Setup and Execution Guide
