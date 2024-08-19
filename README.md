@@ -30,7 +30,7 @@ With this app, walking and running in Vietnam can become more convenient and enj
 [Design](https://www.figma.com/design/nR0y5DmoEMoaKAxiRVRtI7/Dietnam-Design?node-id=0-1&t=Ujkc6S5WU5OIh0tx-0)  & [Arch](https://www.figma.com/board/WjrECIfX3R0eC5GVr2f3WE/Dietnam-Architect?node-id=0-1&t=xo9Fs4AUXvzMRBGN-0)
 
 ## Main Features
-<img src=images/mainFeatures.png width=340> <img src=images/mainFeatures-kor.png width=340>  
+<img src=images/mainFeatures.png width=300> <img src=images/mainFeatures-kor.png width=300>  
 
 ## App View FLow  
 <img src=images/AppViewFlow-Full.png width=900>    
