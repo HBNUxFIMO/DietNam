@@ -1,9 +1,9 @@
-# 🇻🇳 $DietNam$ 🇻🇳
+# $DietNam$ 🇻🇳
 
 <img src=images/DietnamLogo.png width=400>
 
 ## 📚 Table of Contents
-- [🇻🇳 $DietNam$ 🇻🇳](#-dietnam-)
+- [$DietNam$ 🇻🇳](#dietnam-)
   - [📚 Table of Contents](#-table-of-contents)
   - [App Introduction](#app-introduction)
   - [Design \& Architecture](#design--architecture)
